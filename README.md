@@ -1,5 +1,5 @@
 Process involved in this Data Analytics Project-
-1. Data Collection(synthetic data)
+1. Data Collection
 2. Data Preprocessing (not needed)
 3. DSA & EDA using Python
 4. Problem statement analysis using SQL.
