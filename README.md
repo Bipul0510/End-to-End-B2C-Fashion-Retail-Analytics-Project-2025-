@@ -1,6 +1,6 @@
 Process involved in this Data Analytics Project-
 * Data Collection
-* Data Preprocessing (not needed)
+* Data Preprocessing (not needed for this dataset)
 * DSA using Python
 * Problem statement analysis using SQL.
 * Data Analysis using BI tools- Tablue and PowerBI
