@@ -5,4 +5,4 @@ Process involved in this Data Analytics Project-
 * Problem statement analysis using SQL.
 * Data Analysis using BI tools- Tablue and PowerBI
 * KPI analysis and business recommendation for better growth.
-* Final Presentation(if needed)
+* Final Presentation(if needed
